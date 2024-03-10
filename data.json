@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+            "catID": "1",
+            "title": "City",
+            "url": "./images/city.jpg"
+        },
+        {
+            "catID": "2",
+            "title": "Tropical",
+            "url": "./images/tropical.png"
+        },
+        {
+            "catID": "3",
+            "title": "Mountain",
+            "url": "./images/mountain.JPG"
+        },
+        {
+            "catID": "4",
+            "title": "Coastal",
+            "url": "./images/coastal.JPG"
+        },
+        
+        {
+            "catID": "5",
+            "title": "Countryside",
+            "url": "./images/countryside.JPG"
+        },
+        {
+            "catID": "6",
+            "title": "Historic",
+            "url": "./images/historic.JPG"
+        }
+    ]
+}
