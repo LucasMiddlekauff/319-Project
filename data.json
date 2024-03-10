@@ -13,23 +13,23 @@
         {
             "catID": "3",
             "title": "Mountain",
-            "url": "./images/mountain.JPG"
+            "url": "./images/mountain.jpg"
         },
         {
             "catID": "4",
             "title": "Coastal",
-            "url": "./images/coastal.JPG"
+            "url": "./images/coastal.jpg"
         },
         
         {
             "catID": "5",
             "title": "Countryside",
-            "url": "./images/countryside.JPG"
+            "url": "./images/countryside.jpg"
         },
         {
             "catID": "6",
             "title": "Historic",
-            "url": "./images/historic.JPG"
+            "url": "./images/historic.jpg"
         }
     ]
 }
